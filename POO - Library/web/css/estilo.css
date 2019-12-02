@@ -1,0 +1,37 @@
+.brand {
+    height: 50px;
+    width: 50px;
+}
+
+.nav-logo h2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-brand{
+    position:absolute; 
+    top:20px; 
+    left:170px;
+    color: #F0F8FF
+}
+
+.back{
+    background-image: url("../images/banner.jpg");
+    height: 350px;
+  
+}
+
+.books{
+    margin-top: 30px;
+}
+
+.table-image {
+  td, th {
+    vertical-align: middle;
+  }
+}
